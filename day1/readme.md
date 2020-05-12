@@ -63,7 +63,7 @@ React Project Setting [ref](https://velog.io/@jeff0720/React-%EA%B0%9C%EB%B0%9C-
 
 ## 최종 리액트 + css 결과물
 
-[logo]: (/result/react.png) "Logo Title Text 2"
+[logo]: (https://github.com/gwontaeyong/React/blob/master/day1/result/react.png) "Logo Title Text 2"
 
 
 ## 개발환경 설정
