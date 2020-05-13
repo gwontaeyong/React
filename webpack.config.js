@@ -5,7 +5,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 module.exports = {
   // 웹 펙 빌드 js 파일
   // entry: "./step1/helloWorld.js",
-  entry: "./step1/index.js",
+  entry: "./step2/index.js",
   output: {
     filename: "bundle.js",
     path: path.resolve(__dirname + "/build")
